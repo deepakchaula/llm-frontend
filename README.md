@@ -26,5 +26,5 @@ This is a frontend application to chat with an LLM, allowing users to perform CR
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/llm-frontend.git
+   git clone https://github.com/deepakchaula/llm-frontend.git
    cd llm-frontend
