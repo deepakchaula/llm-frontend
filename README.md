@@ -28,3 +28,5 @@ This is a frontend application to chat with an LLM, allowing users to perform CR
    ```bash
    git clone https://github.com/deepakchaula/llm-frontend.git
    cd llm-frontend
+   npm install
+   npm run dev
